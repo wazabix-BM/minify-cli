@@ -68,4 +68,4 @@ It doesn't matter where you place the "-js" option in the command
 $ minify -css index.css min.css
 ```
 
-**Minified output file** : "min.css""# minify-cli" 
+**Minified output file** : "min.css"
