@@ -1,0 +1,34 @@
+{
+  "name": "@wazabix/minify-cli",
+  "version": "1.0.0",
+  "description": "File minifier",
+  "main": "./bin/minify.js",
+  "bin": {
+    "minify": "./bin/minify.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "cli",
+    "css",
+    "html",
+    "minify",
+    "minifier",
+    "fs",
+    "file"
+  ],
+  "author": "wazabix",
+  "license": "MIT",
+  "dependencies": {
+    "clean-css": "^4.2.3",
+    "commander": "^6.1.0",
+    "html-minifier": "^4.0.0",
+    "terser": "^5.2.1"
+  }
+}
