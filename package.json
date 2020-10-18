@@ -29,9 +29,8 @@
     "clean-css": "^4.2.3",
     "commander": "^6.1.0",
     "html-minifier": "^4.0.0",
-    "terser": "^5.2.1"
+    "terser": "^5.3.5"
   },
-  
   "repository": "https://github.com/wazabix-BM/minify-cli",
   "homepage": "https://github.com/wazabix-BM/minify-cli#readme"
 }
