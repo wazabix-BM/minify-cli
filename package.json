@@ -1,6 +1,6 @@
 {
   "name": "@wazabix/minify-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "File minifier",
   "main": "./bin/minify.js",
   "bin": {
