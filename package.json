@@ -30,5 +30,8 @@
     "commander": "^6.1.0",
     "html-minifier": "^4.0.0",
     "terser": "^5.2.1"
-  }
+  },
+  
+  "repository": "https://github.com/wazabix-BM/minify-cli",
+  "homepage": "https://github.com/wazabix-BM/minify-cli#readme"
 }
